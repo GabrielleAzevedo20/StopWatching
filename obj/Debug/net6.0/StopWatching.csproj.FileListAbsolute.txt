@@ -1,0 +1,15 @@
+C:\Users\gabyp\Documents\csharp\StopWatching\bin\Debug\net6.0\StopWatching.exe
+C:\Users\gabyp\Documents\csharp\StopWatching\bin\Debug\net6.0\StopWatching.deps.json
+C:\Users\gabyp\Documents\csharp\StopWatching\bin\Debug\net6.0\StopWatching.runtimeconfig.json
+C:\Users\gabyp\Documents\csharp\StopWatching\bin\Debug\net6.0\StopWatching.dll
+C:\Users\gabyp\Documents\csharp\StopWatching\bin\Debug\net6.0\StopWatching.pdb
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\StopWatching.csproj.AssemblyReference.cache
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\StopWatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\StopWatching.AssemblyInfoInputs.cache
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\StopWatching.AssemblyInfo.cs
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\StopWatching.csproj.CoreCompileInputs.cache
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\StopWatching.dll
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\refint\StopWatching.dll
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\StopWatching.pdb
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\StopWatching.genruntimeconfig.cache
+C:\Users\gabyp\Documents\csharp\StopWatching\obj\Debug\net6.0\ref\StopWatching.dll
